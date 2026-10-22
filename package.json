@@ -1,0 +1,29 @@
+{
+  "name": "ui_automation_testing",
+  "version": "2.0.0",
+  "description": "Framework kiểm thử tự động E2E cho AutomationExercise.com - Đồ án Đảm bảo Chất lượng Phần mềm",
+  "main": "index.js",
+  "scripts": {
+    "test"            : "npx playwright test --project=chromium",
+    "test:headed"     : "npx playwright test --project=chromium --headed",
+    "test:report"     : "npx playwright show-report",
+    "e2e:run"         : "npx playwright test tests/e2e-shopping.spec.ts --project=chromium --headed",
+    "e2e:run:headless": "npx playwright test tests/e2e-shopping.spec.ts --project=chromium"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kaiser2484/UI_Automation_Testing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Kaiser2484/UI_Automation_Testing/issues"
+  },
+  "homepage": "https://github.com/Kaiser2484/UI_Automation_Testing#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.59.1",
+    "@types/node": "^25.6.0"
+  }
+}
