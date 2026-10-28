@@ -5,6 +5,9 @@ Bộ framework kiểm thử tự động **E2E Regression Suite** cấp độ do
 Dự án được xây dựng bằng **Playwright** và **TypeScript**, tuân thủ nghiêm ngặt mô hình **Page Object Model (POM)** kết hợp **B1 Custom Fixtures**, phục vụ báo cáo Đồ án môn học **"Đảm bảo Chất lượng Phần mềm (SQA)"** và chứng minh năng lực kiểm thử đạt tiêu chuẩn quốc tế **ISO/IEC 25010**.
 
 ---
+## Thành viên
+- Nguyễn Mạnh Cường - 23010271
+-  Nguyễn Xuân Hậu - 23010206
 
 ## 🛠️ Tính Năng SQA Nâng Cao Đã Tích Hợp
 
