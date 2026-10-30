@@ -6,9 +6,10 @@ Dự án được xây dựng bằng **Playwright** và **TypeScript**, tuân th
 
 ---
 ## Thành viên
-- Nguyễn Mạnh Cường - 23010271
--  Nguyễn Xuân Hậu - 23010206
-
+- Nguyễn Mạnh Cường - MSSV 23010271
+-  Nguyễn Xuân Hậu - MSSV 23010206
+## Vid thuyết trình
+https://drive.google.com/file/d/1xLiLuGxgM9FdpegvB1cwS_Do38VON9PN/view?usp=sharing
 ## 🛠️ Tính Năng SQA Nâng Cao Đã Tích Hợp
 
 ### 1. 🔑 Functional Testing E2E (Xác thực & Thanh toán)
